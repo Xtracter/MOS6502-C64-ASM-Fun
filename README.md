@@ -10,4 +10,4 @@ Fun with MOS6502-C64-ASM
 
 >shooter.asm is compiled by C64Studio C64Ass assembler - great tool.
 <p>
-Fredrik Roos - info@crazedout.com
+Fredrik Roos - info@crazedout.com / info@c8soft.se
